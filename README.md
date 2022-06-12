@@ -1,7 +1,5 @@
 # pythonApp
-This is my first Window app coded in Python.
-The idea is NOT original but slightly modified from the work of Zinglecode, who shows the same app for iOS in YouTube.
-I standardized the program for self-training.
+MultiplyN is my first Window app. The idea is NOT original. I modified the work of Zinglecode, who developes the same app for iOS. I just made it works for Windows and more international.
 
 __Goal:__ To show the multiplication table for any number except zero.
 
@@ -21,7 +19,7 @@ __Steps:__
 8. Show the name of my app as MuliplyN, on the title bar of the window.
 9. Show the text that describes what this app can do, in the window, with 20-px space between lines.
 10. Add the input box in the window. The box width is 15 px.
-11. Show the button (marked as ได้แก่) with the command of show_output.
+11. Show the button (marked as Run) with the command of show_output.
 12. Resize the button width to 15 px.
 13. Show the output, with 20-px space between lines.
 14. Show the app window on the desktop of the computer.
