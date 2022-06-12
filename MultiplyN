@@ -28,10 +28,10 @@ window = Tk()
 window.geometry("400x400")
 
 # Set the name of my app as Lotto 2022.
-window.title("Lotto 2022")
+window.title("Multiple N")
 
 # Set the text on what this app does and show it in the window with space between lines at 20 px.
-title_label = tkinter.Label(master=window, text='สูตรคูณแม่ n')
+title_label = tkinter.Label(master=window, text='Multiplication Table')
 title_label.pack(pady=20)
 
 # Add the input box and show it in the window. The box width 15 px.
@@ -41,7 +41,7 @@ number_input.pack()
 # Add the button, namely ได้แก่ and show it, but add the command of show_output too.
 # Set the button size as
 go_button = tkinter.Button(
-    master=window, text='ได้แก่',
+    master=window, text='Run',
     command=show_output, width=15, height=2
 )
 go_button.pack()
