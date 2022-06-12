@@ -12,17 +12,14 @@ __Output:__ A multiplication table associated with the number keyed by the user.
 __Steps:__
 
 # Import the tkinter module for creating a desktop app, and refer to it as tk.
-‘‘‘
 import tkinter
 from tkinter import *
-‘‘‘
 
 # Create a new function called "Show Output", which gets integer number transformed from the text number input
 def show_output():
     number = int(number_input.get())
 
-# Check before showing the output. If number equals zero, then show the text "Zero is meaningless",
-# and end the output function.
+# Check before showing the output. If number equals zero, then show the text "Zero is meaningless" and end the output function.
     if number == 0:
         output_label.configure(text='Zero is meaningless')
         return
