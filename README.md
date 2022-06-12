@@ -1,7 +1,7 @@
 # pythonApp
 This is my first Window app coded in Python.
 The idea is NOT original but slightly modified from the work of Zinglecode, who shows the same app for iOS in YouTube.
-I tried to standardized his code and publish it here for self-training.
+I standardized the program for self-training.
 
 __Goal:__ To show the multiplication table for any number except zero.
 
