@@ -25,7 +25,8 @@ __Steps:__
 14. Show the app window on the desktop of the computer.
 
 # 2. ID Generator
-This app was developed and used in my work.
+This app was developed for my office.
+
 __Goal:__ To generate a User ID and give it to the user for subsequent refernce
 
 __Input:__ The first name and the surname (String in Thai) of the user
