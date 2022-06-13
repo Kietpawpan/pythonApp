@@ -36,7 +36,7 @@ __Output:__ The User ID text, which combines the first English chracter of name,
 __Steps:__
 
 1. Import the tkinter module for creating a desktop app.
-2. Import datetime modele for getting the present time
+2. Import datetime module for getting the present time
 3. Set the time format as yyyymmddhhmm
 4. Get the value yymmddhhmm as the user ID suffix
 5. Create a new function called "Show Output", which gets integer number transformed from the text number input
