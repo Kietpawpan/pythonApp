@@ -15,8 +15,8 @@ def show_output():
 
 # Create a new dictionary for translate the username and surname into English
 # Avoid I which seems like 1 and use various English characters for Thai vowels
-    myThaiDict = "กขคฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรลวศษสหฬอฮเแโใไฤ"
-    myEnglishDict = "KKKKNCCCSCYDTTTTNDTTTTNBPPFPFPMYRLWSSSHLAHAQZEUR"
+    myThaiDict = "กขคฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรลวศษสหฬอฮโใไฤเแ"
+    myEnglishDict = "KKKKNCCCSCYDTTTTNDTTTTNBPPFPFPMYRLWSSSHLAHZEURGV"
 
 # Create separate dictionary tables for username and surname translation
     myNameTable = userName.maketrans(myThaiDict, myEnglishDict)
