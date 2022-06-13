@@ -24,7 +24,7 @@ __Steps:__
 13. Show the output, with 20-px space between lines.
 14. Show the app window on the desktop of the computer.
 
-# 2. ID Denerator
+# 2. ID Generator
 This app was developed and used in my work.
 __Goal:__ To generate a User ID and give it to the user for subsequent refernce
 
