@@ -31,7 +31,7 @@ __Goal:__ To generate a User ID for accessing the e-tracking service
 
 __Input:__ The first name and the surname (String in Thai) of the user
 
-__Output:__ The User ID text, which combine the first English chracter of the name and surname plus a few digit Integer number 
+__Output:__ The User ID text, which combines the first English chracter of name, surname, and a time-based serial number 
 
 __Steps:__
 
