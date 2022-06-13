@@ -1,9 +1,9 @@
 # 1. MultiplyN
 MultiplyN is my first Window app. The idea is NOT original. I modified the work of Zinglecode, who developes the same app for iOS. I just made it works for Windows and more international.
 
-__Goal:__ To show the multiplication table for any number except zero.
+__Goal:__ To show the multiplication table for any numbers except zero.
 
-__Input:__ a number (integer) the user typing in an input box in order to check the multiplication table of that number.
+__Input:__ a number (integer) from the input box.
 
 __Output:__ A multiplication table associated with the number keyed by the user.
 
@@ -41,7 +41,7 @@ __Steps:__
 4. Get the value yymmddhhmm as the user ID suffix
 5. Create a new function called "Show Output", which gets integer number transformed from the text number input
 6. Get the values from the two input boxes (first name and surname)
-7. Create a new dictionary for translate the username and surname into English. Avoid using 'I', which seems like 1. Aoid using O whichs seems like 0.
+7. Create a new dictionary for translate the username and surname into English. Avoid using 'I', which seems like 1. Aoid using O whichs seems like 0. Some charcaters were translated in a new way: โ == Z; ใ == E; ไ == U; เ == A; แ == Q, to have diverse ID codes.
 8. Use various English characters for Thai vowels
 9. Create separate dictionary tables for username and surname translation
 10. Translate the username and put the value in a new variable called transName
