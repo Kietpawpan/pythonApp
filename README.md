@@ -27,7 +27,7 @@ __Steps:__
 # 2. ID Generator
 This app was developed for my office.
 
-__Goal:__ To generate a User ID and give it to the user for subsequent refernce
+__Goal:__ To generate a User ID for accessing the e-tracking service
 
 __Input:__ The first name and the surname (String in Thai) of the user
 
