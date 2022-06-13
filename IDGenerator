@@ -41,7 +41,7 @@ window = Tk()
 # Set the size of the app window as 400 x 400 px
 window.geometry("400x400")
 
-# Set the name of my app as Lotto 2022.
+# Set the name of my app as jTech ID Generator.
 window.title("jTech ID Generator")
 
 # Set the text on what this app does and show it in the window with space between lines at 20 px.
